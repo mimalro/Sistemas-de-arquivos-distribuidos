@@ -15,5 +15,7 @@ Se encontrar algum problema, abra uma Issue no nosso repositorio, e inclua o má
 
 ### 2.Criando um fork do repositório
 Envie seus commits em português.
+
 Insira um pequeno resumo sobre o que foi adicionado.
+
 Solicite um pull request.
