@@ -21,5 +21,7 @@ Para instalar, siga os passos abaixo:
 
  ### Membros do projeto
   Mauro inojosa - 01428103
+  
   Allan Maia Santos - 01426167
+  
   Leonardo gabriel - 01415226
