@@ -25,3 +25,7 @@ Para instalar, siga os passos abaixo:
   Allan Maia Santos - 01426167
   
   Leonardo gabriel - 01415226
+  
+  Luciano Lucas - 01488047
+
+  Renan Laurindo - 01462797
