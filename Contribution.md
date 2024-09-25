@@ -4,9 +4,13 @@ Como contribuir?
 
 ### 1.Reportando Problemas
 Se encontrar algum problema, abra uma Issue no nosso repositorio, e inclua o máximo de detalhes possível, como:
+  
   -Passos para reproduzir o problema
+  
   -Comportamento esperado
+  
   -Comportamento real
+  
   -Captura de tela ou log
 
 ### 2.Criando um fork do repositório
