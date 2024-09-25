@@ -1,7 +1,7 @@
 # Sistemas-de-arquivos-distribuidos
 Repositório criado para arquivos do projeto da cadeira de Sistemas Distribuídos
 
-##Instalação
+### 📌 Instalação
 
 Para instalar, siga os passos abaixo:
 
@@ -13,13 +13,13 @@ Para instalar, siga os passos abaixo:
 3. Execute o projeto
      (Baseado nas Dependências utilizadas)
 
- ### Contribuição
+ ### 📌 Contribuição
 
  Caso queira contribuir, leia nosso guia de contribuição [Contributuion.md]
 
  Este projeto está licenciado sob a [GNU - General Public License]
 
- ### Membros do projeto
+ ### 📌 Membros do projeto
   Mauro inojosa (Gerente de configuração) - 01428103
   
   Allan Maia Santos (Analista de dados e negócio) - 01426167
