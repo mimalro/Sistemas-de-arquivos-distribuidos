@@ -20,12 +20,12 @@ Para instalar, siga os passos abaixo:
  Este projeto está licenciado sob a [GNU - General Public License]
 
  ### Membros do projeto
-  Mauro inojosa - 01428103
+  Mauro inojosa (Analista de dados e negócio) - 01428103
   
-  Allan Maia Santos - 01426167
+  Allan Maia Santos (Gerente de configuração) - 01426167
   
-  Leonardo gabriel - 01415226
+  Leonardo gabriel (Scrum master) - 01415226
   
-  Luciano Lucas - 01488047
+  Luciano Lucas (Analista Desenvolvedor) - 01488047
 
-  Renan Laurindo - 01462797
+  Renan Laurindo (Analista Desenvolvedor) - 01462797
